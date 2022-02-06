@@ -1,0 +1,38 @@
+{
+  "name": "DogsTube",
+  "short_name": "DogsTube",
+  "start_url": "dogstube.us",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#171544",
+  "description": "Must love dogs",
+  "icons": [{
+    "src": "https://lh3.googleusercontent.com/-nLGYmFlCFOo/YgAksA0hKKI/AAAAAAAABfA/5Lm0N6lefP8TqN7AZrt7_OqeqYcsDpsngCNcBGAsYHQ/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-FBHe39t1ftw/YgAks7xbMdI/AAAAAAAABfE/qrnFgbNFcloBMRJJNTKEB7zq7N60nWGXQCNcBGAsYHQ/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-NOtfD0lOcRQ/YgAktJ5xFXI/AAAAAAAABfI/4UGJcfJqpEMFzKl7DOb6jjkL9n1EOfJfACNcBGAsYHQ/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-siNJDCHX5qg/YgAksMV2dtI/AAAAAAAABe8/CQ1fGVpf5DkdxkN_0qdLxQcHVA5EorSIQCNcBGAsYHQ/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-LWAHhK2u0vU/YgAksH6a_iI/AAAAAAAABe4/e8TpimbnCMslDBUBCekj85fShu4nrFffQCNcBGAsYHQ/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-k4XwFDbsh04/YgAjHmkpDeI/AAAAAAAABeI/cknFBeJj-DAv8ksGGhJXLqrgSVCdbfRCwCNcBGAsYHQ/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-4vYHBnJL7Bs/YgAjIugnBAI/AAAAAAAABeQ/D5mfrDyDtDE41qNP6LEoP5zhRprFJrHzQCNcBGAsYHQ/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
